@@ -126,3 +126,12 @@ If you need to deactivate your account, follow these steps:
 4. Confirm your decision by clicking "Yes, Deactivate."
 
 Your account will be deactivated, and you will no longer have access to the platform. To reactivate, contact support.
+
+---
+
+# Adding a Property
+
+To create a new property you must start with the lease document.
+Go to "Documents" and then choose the upload option and upload your lease document.
+Once it's uploaded Hobson will extract and enrich the property address as part of its file processing.
+Once the file has been processed and it's status has updated it can then be queried.
